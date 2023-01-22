@@ -1,20 +1,20 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@icore-wf/fs-starter-demo",
   "version": "1.0.0",
   "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "homepage": "https://github.com/yperea/fs-starter-demo#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://www.finsweet.com/"
+    "name": "iCORE",
+    "url": "https://www.icore.co/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finsweet/developer-starter.git"
+    "url": "git+https://github.com/yperea/fs-starter-demo.git"
   },
   "bugs": {
-    "url": "https://github.com/finsweet/developer-starter/issues"
+    "url": "https://github.com/yperea/fs-starter-demo/issues"
   },
   "type": "module",
   "main": "src/index.ts",
