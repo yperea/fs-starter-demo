@@ -5,7 +5,7 @@ on:
 
 jobs:
   Lint:
-    uses: yperea/workflow-ci-lint/.github/workflows/lint.yml@main
+    uses: finsweet/workflow-ci-lint/.github/workflows/lint.yml@main
 
   # Comment this job out if your project doesn't have any tests.
   # Tests:
